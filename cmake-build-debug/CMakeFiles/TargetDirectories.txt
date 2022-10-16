@@ -1,3 +1,0 @@
-D:/LabISRPO/Lab2/LabWork2_Degina_Zile/cmake-build-debug/CMakeFiles/LabWork2_Degina_Zile.dir
-D:/LabISRPO/Lab2/LabWork2_Degina_Zile/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/LabISRPO/Lab2/LabWork2_Degina_Zile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
